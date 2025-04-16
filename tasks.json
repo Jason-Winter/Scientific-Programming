@@ -1,0 +1,50 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "xslt",
+			"label": "xslt: Saxon Transform (New)",
+			"saxonJar": "${config:XSLT.tasks.saxonJar}",
+			"xsltFile": "${command:xslt-xpath.pickXsltFile}",
+			"xmlSource": "${command:xslt-xpath.pickXmlSourceFile}",
+			"resultPath": "${workspaceFolder}/xsl-out/result1.html",
+			"allowSyntaxExtensions40": "off",
+			"messageEscaping": "adaptive",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [
+				"$saxon-xslt"
+			]
+		}
+
+
+		"Jason gsehsch du das"
+
+		gsehsch du das hdahsdjhasjhdjah
+
+		//Lam isch super gay
+
+		//de Lamkev isch personal gay trainer
+
+		//yeye
+
+		//where Yason?
+		
+		//hello jason, denn chömmer da au zemme code
+		
+
+
+		// denn mümer ja nüme is scientific programming gah
+
+		//noice
+
+		glaub mir münds aber halt trotzdem no mit github verbinde damit ihr zwei au schaffe chönnd wenn ich nöd online bin
+		will jetzt laufts nur wenn ich als host au online bin,
+
+		chasch du eus nid zu hosts mache?
+		
+		leider nöd, online heissts au mir münd git dafür bruche
+	]
+}
